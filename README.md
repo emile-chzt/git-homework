@@ -1,5 +1,5 @@
 01 Nom: Chazot
-01 github: emile-chazot
+01 github: emile-chzt
 02 Nom: Mariani
 02 github:
 03 Nom: Huet
