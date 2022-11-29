@@ -1,7 +1,7 @@
 01 Nom: Chazot
 01 github: emile-chzt
 02 Nom: Mariani
-02 github:
+02 github: ZeWhips
 03 Nom: Huet
 03 github:
 04 Nom: Marcoul Robin
